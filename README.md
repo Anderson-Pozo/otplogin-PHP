@@ -23,7 +23,7 @@ define('PASSWORD', '');
 define('SSID', 'xxxxxxxxxxxxxxxxxxxxxxxx');
 define('TOKEN', 'xxxxxxxxxxxxxxxxxxxxxxxx');
 ```
-El archivo de config.php se debe ubicar en la ruta /lib
+El archivo config.php se debe ubicar en la ruta /lib
 
 ## Autores
 * **Anderson Pozo**
