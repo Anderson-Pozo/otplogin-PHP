@@ -30,3 +30,5 @@ El archivo config.php se debe ubicar en la ruta /lib
 * **Jhon Paillacho**
 * **Wladimir Chiliquinga**
 
+## Demo
+<img width="2964" alt="demo" src="https://user-images.githubusercontent.com/60895689/84843944-e10d5700-b00e-11ea-970d-d2e9d53fab5a.png">
